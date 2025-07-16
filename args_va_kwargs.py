@@ -37,3 +37,10 @@
 # print(1,2,3)
 # print(1,2,3)
 # print(1,2,34)
+
+
+# def ziyobek_muhammadumar(*args, **kwargs):
+#     print(f"bu args {args}")
+#     print(f"bu kwargs {kwargs}")
+#
+# print(ziyobek_muhammadumar(1,2,3,4,5, name="Ziyobek", age=12))

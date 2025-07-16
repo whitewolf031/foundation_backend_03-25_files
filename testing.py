@@ -10,7 +10,7 @@
 # print(teskari_soz("Donald Trump"))
 # teskari_soz("Rosie O'Donnell")
 # teskari_soz("Seymour Butts")
-
+#
 # def card_hide(card_number):
 #     return "*" * (len(card_number) - 4) + card_number[::-4]
 #
